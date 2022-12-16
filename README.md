@@ -1,4 +1,4 @@
 # pseudo-nubank
 
-Esse repositório é fazer parte do aprendizado de ionic angular e golang
+Esse repositório faz parte do aprendizado de ionic angular e golang
 
